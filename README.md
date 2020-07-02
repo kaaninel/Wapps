@@ -11,4 +11,4 @@ This project is an experimental web app manager. It lets you categorize, manage 
 
 ## Prototype
 
-![Light Prototype](/docs/light.png)
+![Light Prototype](/docs/Light.png)
