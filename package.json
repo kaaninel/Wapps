@@ -1,0 +1,29 @@
+{
+	"name": "wapps",
+	"version": "0.0.1",
+	"description": "Web app manager",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kaaninel/Wapps.git"
+	},
+	"keywords": [
+		"web",
+		"app",
+		"manifest",
+		"browser"
+	],
+	"author": "Necati Kaan Inel <kaaninel@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kaaninel/Wapps/issues"
+	},
+	"homepage": "https://github.com/kaaninel/Wapps#readme"
+}
